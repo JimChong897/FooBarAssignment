@@ -1,5 +1,7 @@
 # Foobar Assignment
 
+![FooBarSystem](assets/FooBarSystem.jpg)
+
 ## Block Diagram
 
 Several assumptions and design decisions were made to try to achieve something within 6 to 8 working hours.
